@@ -2,3 +2,8 @@ site_name: My Documentation
 docs_dir: docs
 theme:
   name: material
+  features:
+    - content.code.copy
+    - navigation.instant
+    - navigation.top
+    # - navigation.tabs
